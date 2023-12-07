@@ -144,8 +144,8 @@ header{
 .contain #text{
     position: absolute;
     top: 15px;
-    left: 45px;
-    font-size: 30px;
+    left: 35px;
+    font-size: 25px;
     color: rgb(255, 255, 255);
     text-shadow: 0px 0px 5px black;
     text-align: right;
@@ -154,9 +154,9 @@ header{
 
 .contain #texto{
     position: absolute;
-    top: 200px;
+    top: 210px;
     left: 145px;
-    font-size: 20px;
+    font-size: 16px;
     color: rgb(255, 255, 255);
     text-shadow: 0px 0px 5px rgb(0, 0, 0);
     text-align: right;
@@ -259,7 +259,7 @@ h3{
 ul.prod{
     float: left;
     width: 100%;
-    padding: 10px;
+    padding: 5px;
     display: block;
     gap: 30px;
     margin-top: 20px;
@@ -274,7 +274,7 @@ ul.prod li{
     padding-bottom: 10px;
     display: inline-block;
     border-radius: 8px;
-    margin-left: 10%;
+    margin-left: 8%;
     margin-top: 30px;
     overflow: hidden;
 }
