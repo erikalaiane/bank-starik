@@ -161,7 +161,7 @@ header{
 
 .contain section#login {
     position: absolute;
-    top: 7.5%;
+    top: 8%;
     left: 5%;
     overflow: hidden;
     
@@ -419,7 +419,7 @@ strong{
 .cont img{
     border-radius: 0px;
     padding: 0%;
-    width: 392px;
+    width: 415px;
     height: 300px;
     object-fit: cover;
     object-position:0px 0px;
@@ -439,7 +439,7 @@ strong{
 
 .cont #te{
     position: absolute;
-    top: 90px;
+    top: 95px;
     left: 0px;
     font-size: 15px;
     color: rgb(255, 255, 255);
