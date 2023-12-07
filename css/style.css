@@ -12,8 +12,11 @@
     color: white;
 }
 
+main{
+    min-width: 360px;
+}
+
 .container{
-    min-width: 600px;
     margin:auto;
     display: flex;
     align-items: center;
@@ -349,6 +352,7 @@ p#rd{
 
 
 #smile{
+    width: 98%;
     padding: 10px;
     border-radius: 10PX;
 }
@@ -419,7 +423,7 @@ strong{
 .cont img{
     border-radius: 0px;
     padding: 0%;
-    width: 415px;
+    width: 428px;
     height: 300px;
     object-fit: cover;
     object-position:0px 0px;
