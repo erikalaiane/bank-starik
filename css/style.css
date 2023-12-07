@@ -65,7 +65,7 @@ header{
     padding-left: 1.25rem;
     padding-right: 1.25rem;
     border-radius: 6.25rem;
-    background-image:linear-gradient(45deg, #3a22a5, #742767);
+    background-color: #BD3913;
     font-size: 20px;
     color: rgb(255, 255, 255);
     height: 3rem;
@@ -89,7 +89,7 @@ header{
     padding-left: 1.25rem;
     padding-right: 1.25rem;
     border-radius: 6.25rem;
-    background: rgb(180, 41, 64);
+    background: #3E692F;
     color: rgb(253, 253, 253), 250;
     height: 3rem;
     display: flex;
@@ -111,6 +111,7 @@ header{
 
 .galery {
     width: 100%;
+    height: 100%;
     overflow: hidden;
 }
 
@@ -138,20 +139,20 @@ header{
 
 .contain #text{
     position: absolute;
-    top: 20px;
-    left: 0px;
-    font-size: 34px;
+    top: 15px;
+    left: 50px;
+    font-size: 30px;
     color: rgb(255, 255, 255);
     text-shadow: 0px 0px 5px black;
-    text-align: left;
+    text-align: right;
     padding: 15px;
 }
 
 .contain #texto{
     position: absolute;
-    top: 220px;
-    left: 36px;
-    font-size: 25px;
+    top: 200px;
+    left: 150px;
+    font-size: 20px;
     color: rgb(255, 255, 255);
     text-shadow: 0px 0px 5px rgb(0, 0, 0);
     text-align: right;
@@ -160,7 +161,7 @@ header{
 
 .contain section#login {
     position: absolute;
-    top: 8.2%;
+    top: 7.5%;
     left: 5%;
     overflow: hidden;
     
@@ -227,7 +228,7 @@ form > input[type=submit]{
     left: 5%;
     width: 90%;
     height: 40px;
-    background-image:linear-gradient(45deg, #3a22a5, #742767);
+    background-color: #3E692F ;
     color: rgb(255, 255, 255);
     border: none;
     border-radius: 50px;
@@ -235,7 +236,7 @@ form > input[type=submit]{
 }
 
 form > input[type=submit]:hover {
-    background-color: rgb(180, 41, 64);
+    background-color: #BD3913;
     color: aliceblue;
     font-size: 1.1em;
     left: 3%;
@@ -248,7 +249,7 @@ h3{
     text-align: center;
     margin-top: 60px;
     font-size: 30px;
-    padding: 5px;
+    padding: 10px;
 }
 
 ul.prod{
@@ -416,13 +417,12 @@ strong{
 }
 
 .cont img{
+    border-radius: 0px;
     padding: 0%;
-    width: 390px;
+    width: 392px;
     height: 300px;
     object-fit: cover;
     object-position:0px 0px;
-    
-    border-radius: 0px;
 }
 
 .cont #tex{
@@ -439,14 +439,14 @@ strong{
 
 .cont #te{
     position: absolute;
-    top: 80px;
+    top: 90px;
     left: 0px;
     font-size: 15px;
     color: rgb(255, 255, 255);
     text-shadow: 0px 0px 5px black;
     text-align: left;
     padding: 15px;
-    padding-right: 190px;
+    padding-right: 230px;
 }
  
 #anui{
@@ -455,7 +455,7 @@ strong{
 }
 
 div#burocracia{
-    background-color: #f5f5f5;
+    background-color: #ffffff;
     font-size: 20px;
     padding-left: 15px;
 }
@@ -469,8 +469,8 @@ div#burocracia p{
 }
 
 div#burocracia img{
-    margin-left: 20%;
-    width: 60%;
+    margin-left: 0%;
+    width: 100%;
     height: 60%;
 }
 
