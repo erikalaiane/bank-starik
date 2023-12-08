@@ -371,9 +371,14 @@ h1{
         text-align: left;
 }
 
+.contcart{
+    width: 100%;
+    padding: 0.2%;
+}
+
 .contan{
     padding: 0px;
-    width: 94%;
+    width: 95%;
 }
 
 .contan p{
