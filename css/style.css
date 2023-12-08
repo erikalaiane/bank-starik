@@ -145,7 +145,7 @@ header{
     color: rgb(255, 255, 255);
     text-shadow: 0px 0px 5px black;
     text-align: right;
-    padding-right: 55px;
+    padding-right: 50px;
 }
 
 .contain #texto{
@@ -156,7 +156,7 @@ header{
     color: rgb(255, 255, 255);
     text-shadow: 0px 0px 5px rgb(0, 0, 0);
     text-align: right;
-    padding-right: 52px;
+    padding-right: 48px;
 }
 
 .contain section#login {
@@ -256,7 +256,7 @@ h3{
 ul.prod{
     float: left;
     width: 100%;
-    padding: 10px;
+    padding: 8px;
     display: block;
     gap: 30px;
     margin-top: 20px;
@@ -271,7 +271,7 @@ ul.prod li{
     padding-bottom: 10px;
     display: inline-block;
     border-radius: 8px;
-    margin-left: 6%;
+    margin-left: 7%;
     margin-top: 30px;
     overflow: hidden;
 }
@@ -350,7 +350,7 @@ p#rd{
 
 
 #smile{
-    width: 98%;
+    width: 100%;
     padding: 10px;
     border-radius: 20PX;
 }
@@ -373,7 +373,7 @@ h1{
 
 .contan{
     padding: 0px;
-    width: 93%;
+    width: 95%;
 }
 
 .contan p{
