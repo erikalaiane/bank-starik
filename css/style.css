@@ -150,7 +150,7 @@ header{
 
 .contain #texto{
     position: absolute;
-    top: 215px;
+    top: 213px;
     left: 190px;
     font-size: 20px;
     color: rgb(255, 255, 255);
@@ -260,7 +260,7 @@ ul.prod{
     display: block;
     gap: 30px;
     margin-top: 20px;
-   
+   padding-bottom: 15px;
 }
 
 ul.prod li{
@@ -373,7 +373,7 @@ h1{
 
 .contan{
     padding: 0px;
-    width: 93%;
+    width: 94%;
 }
 
 .contan p{
